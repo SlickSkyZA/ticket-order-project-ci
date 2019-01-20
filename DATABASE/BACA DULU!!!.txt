@@ -1,0 +1,1 @@
+Import dengan PHPMyAdmin dulu, caranya bisa anda lihat pada tutorial bagian part 5 = http://www.tutorial-it.com/membuat-koneksi-database-codeigniter-tutorial-part-5/
